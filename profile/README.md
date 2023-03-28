@@ -1,4 +1,4 @@
-![OWASP IIITD](./owasp_banner.svg)
+![OWASP IIITD](./owasp_banner.png)
 
 # OWASP IIIT-Delhi Student Chapter
 
