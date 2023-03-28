@@ -1,4 +1,4 @@
-<img src="./profile/owasplogofull.png">
+<img src="./profile/owaspfullbanner.png">
 
 # OWASP IIIT-Delhi Student Chapter
 
