@@ -11,7 +11,7 @@ Our GitHub organization serves as a central repository for storing programs rela
 
 Faculty Coordinator - [Sambuddho Chakravarty](mailto:sambuddho@iiitd.ac.in)
 
-Student Leaders and Coordinators:
+Chapter Leaders and Coordinators:
 - [Aditya Pratap Singh](mailto:aditya.singh@owasp.org)
 - [Anirudh S Kumar](mailto:anirudh21517@iiitd.ac.in)
 - [Arpit Nandi](mailto:arpit.nandi@owasp.org)
